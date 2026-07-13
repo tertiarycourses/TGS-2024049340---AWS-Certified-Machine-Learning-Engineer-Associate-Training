@@ -2,7 +2,7 @@
 
 **Course Code:** TGS-2024049340
 **Organisation:** Tertiary Infotech Academy Pte Ltd (UEN: 201200696W)
-**Version:** 1
+**Version:** 2
 
 This Markdown guide mirrors the Learner Guide DOCX and is generated from the same eight lab markdown files.
 
